@@ -1,4 +1,4 @@
-FROM paramah/php:8.1-alpine
+FROM vertisan/php:8.1
 
 COPY docker/ /
 
